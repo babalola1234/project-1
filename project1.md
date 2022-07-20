@@ -6,7 +6,7 @@
 
 `sudo systemctl apache2`
 
-![git push](./images/project1-image1.Png)
+![project image](./images/project1-image1.Png)
 
 * [setting up my enviroment](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
