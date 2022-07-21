@@ -118,7 +118,7 @@ phpinfo(); `
 ` sudo rm /var/www/projectlamp/index.php `
 
 
-[Project-1-completion-review-link](https://github.com/babalola1234/project-1.git)
+* [Project-1-completion-review-link](https://github.com/babalola1234/project-1.git)
 
 
 
