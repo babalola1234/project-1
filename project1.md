@@ -1,4 +1,4 @@
-# Documentation for project 1
+# Documentation for project 1 - WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
 
 ` Step 1 - installaing apcahed and updating firewall`
 
